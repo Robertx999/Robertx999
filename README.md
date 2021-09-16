@@ -1,5 +1,5 @@
 # Hi, I’m Robert
-- I’m interested in Web Technologies
+- I’m interested in Web Technologies and Linux
 - I’m currently learning Svelte and Vue
 - I’m looking to collaborate on a single site webstie
 - How to reach me - Robertx999#6826 (Discord)
